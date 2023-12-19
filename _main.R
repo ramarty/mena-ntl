@@ -22,6 +22,7 @@ library(exactextractr)
 library(readxl)
 library(stringr)
 library(haven)
+library(ggplot2)
 
 # Run Code ---------------------------------------------------------------------
 if(F){
