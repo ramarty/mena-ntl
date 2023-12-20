@@ -30,7 +30,7 @@ if(F){
   
   #source(file.path(git_dir, "01_make_roi.R"))
   #source(file.path(git_dir, "02_gas_flaring_locations.R"))
-  source(file.path(git_dir, "03_download_blackmarbler.R"))
+  source(file.path(git_dir, "03_download_blackmarble.R"))
   source(file.path(git_dir, "04_extract_data.R"))
   source(file.path(git_dir, "05_append_merge_data.R"))
   
